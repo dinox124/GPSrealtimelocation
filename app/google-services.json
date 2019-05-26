@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "430127084377",
+    "firebase_url": "https://realtimetracking-8dba8.firebaseio.com",
+    "project_id": "realtimetracking-8dba8",
+    "storage_bucket": "realtimetracking-8dba8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430127084377:android:0743873e1e9c0575",
+        "android_client_info": {
+          "package_name": "com.gsolution.gpsrealtimelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430127084377-vj6csqkj5609saicqoi9clpop4e8vqg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gsolution.gpsrealtimelocation",
+            "certificate_hash": "0f639b200c2c6766003f1925b8a77dbd06692492"
+          }
+        },
+        {
+          "client_id": "430127084377-2s19td1lkuqup6itbo18cbuvd1f4r20p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5FOmLPk1GH2BUujeBlYwwUsnVZ2onF8c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430127084377-2s19td1lkuqup6itbo18cbuvd1f4r20p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
